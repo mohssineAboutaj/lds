@@ -6,7 +6,7 @@ This project used to make your computer as a shared server
 
 ## Usage
 + clone this repo in your web server (e.g: *xampp*)
-+ open in anthers device browser
++ open in anthers device browser with your local ip (e.g: http://192.168.1.9)
 + download what you want
 + enjoy!
   
